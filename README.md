@@ -1,3 +1,4 @@
 # curated-linux-stuff
 
-- ncdu
+## ncdu
+sudo ncdu -rx /
